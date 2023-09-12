@@ -22,6 +22,9 @@ Screenshot for Activity 4:
 
 Screenshot for Activity 5:
 
-<img width="669" alt="Screen Shot 2023-09-12 at 6 18 00 PM" src="https://github.com/PaulaPerdomo/ECE444-F2023-Assignment1/assets/57601491/4055461f-2213-4d82-88fb-c7ce69b2dc50">
+<img width="593" alt="Screen Shot 2023-09-12 at 6 47 11 PM" src="https://github.com/PaulaPerdomo/ECE444-F2023-Assignment1/assets/57601491/b95a8db4-3c83-44f6-8ec5-1dd12a93bb66">
+
+<img width="624" alt="Screen Shot 2023-09-12 at 6 47 19 PM" src="https://github.com/PaulaPerdomo/ECE444-F2023-Assignment1/assets/57601491/88ea397b-7d47-4438-a2aa-b225dcbc7796">
+
 
 
